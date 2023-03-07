@@ -1,0 +1,15 @@
+C:\Users\79025\Documents\Аня файлы\Обучение GeekBrains\3. языки программирования\Семинары\ДЗ\Задача_43\obj\Debug\net6.0\Задача_43.csproj.AssemblyReference.cache
+C:\Users\79025\Documents\Аня файлы\Обучение GeekBrains\3. языки программирования\Семинары\ДЗ\Задача_43\obj\Debug\net6.0\Задача_43.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79025\Documents\Аня файлы\Обучение GeekBrains\3. языки программирования\Семинары\ДЗ\Задача_43\obj\Debug\net6.0\Задача_43.AssemblyInfoInputs.cache
+C:\Users\79025\Documents\Аня файлы\Обучение GeekBrains\3. языки программирования\Семинары\ДЗ\Задача_43\obj\Debug\net6.0\Задача_43.AssemblyInfo.cs
+C:\Users\79025\Documents\Аня файлы\Обучение GeekBrains\3. языки программирования\Семинары\ДЗ\Задача_43\obj\Debug\net6.0\Задача_43.csproj.CoreCompileInputs.cache
+C:\Users\79025\Documents\Аня файлы\Обучение GeekBrains\3. языки программирования\Семинары\ДЗ\Задача_43\bin\Debug\net6.0\Задача_43.exe
+C:\Users\79025\Documents\Аня файлы\Обучение GeekBrains\3. языки программирования\Семинары\ДЗ\Задача_43\bin\Debug\net6.0\Задача_43.deps.json
+C:\Users\79025\Documents\Аня файлы\Обучение GeekBrains\3. языки программирования\Семинары\ДЗ\Задача_43\bin\Debug\net6.0\Задача_43.runtimeconfig.json
+C:\Users\79025\Documents\Аня файлы\Обучение GeekBrains\3. языки программирования\Семинары\ДЗ\Задача_43\bin\Debug\net6.0\Задача_43.dll
+C:\Users\79025\Documents\Аня файлы\Обучение GeekBrains\3. языки программирования\Семинары\ДЗ\Задача_43\bin\Debug\net6.0\Задача_43.pdb
+C:\Users\79025\Documents\Аня файлы\Обучение GeekBrains\3. языки программирования\Семинары\ДЗ\Задача_43\obj\Debug\net6.0\Задача_43.dll
+C:\Users\79025\Documents\Аня файлы\Обучение GeekBrains\3. языки программирования\Семинары\ДЗ\Задача_43\obj\Debug\net6.0\refint\Задача_43.dll
+C:\Users\79025\Documents\Аня файлы\Обучение GeekBrains\3. языки программирования\Семинары\ДЗ\Задача_43\obj\Debug\net6.0\Задача_43.pdb
+C:\Users\79025\Documents\Аня файлы\Обучение GeekBrains\3. языки программирования\Семинары\ДЗ\Задача_43\obj\Debug\net6.0\Задача_43.genruntimeconfig.cache
+C:\Users\79025\Documents\Аня файлы\Обучение GeekBrains\3. языки программирования\Семинары\ДЗ\Задача_43\obj\Debug\net6.0\ref\Задача_43.dll
