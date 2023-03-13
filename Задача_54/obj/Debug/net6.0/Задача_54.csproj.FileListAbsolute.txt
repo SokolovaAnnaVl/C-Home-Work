@@ -1,0 +1,15 @@
+C:\Users\79025\Documents\Аня файлы\Обучение GeekBrains\3. языки программирования\Семинары\ДЗ\Задача_54\obj\Debug\net6.0\Задача_54.csproj.AssemblyReference.cache
+C:\Users\79025\Documents\Аня файлы\Обучение GeekBrains\3. языки программирования\Семинары\ДЗ\Задача_54\obj\Debug\net6.0\Задача_54.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79025\Documents\Аня файлы\Обучение GeekBrains\3. языки программирования\Семинары\ДЗ\Задача_54\obj\Debug\net6.0\Задача_54.AssemblyInfoInputs.cache
+C:\Users\79025\Documents\Аня файлы\Обучение GeekBrains\3. языки программирования\Семинары\ДЗ\Задача_54\obj\Debug\net6.0\Задача_54.AssemblyInfo.cs
+C:\Users\79025\Documents\Аня файлы\Обучение GeekBrains\3. языки программирования\Семинары\ДЗ\Задача_54\obj\Debug\net6.0\Задача_54.csproj.CoreCompileInputs.cache
+C:\Users\79025\Documents\Аня файлы\Обучение GeekBrains\3. языки программирования\Семинары\ДЗ\Задача_54\bin\Debug\net6.0\Задача_54.exe
+C:\Users\79025\Documents\Аня файлы\Обучение GeekBrains\3. языки программирования\Семинары\ДЗ\Задача_54\bin\Debug\net6.0\Задача_54.deps.json
+C:\Users\79025\Documents\Аня файлы\Обучение GeekBrains\3. языки программирования\Семинары\ДЗ\Задача_54\bin\Debug\net6.0\Задача_54.runtimeconfig.json
+C:\Users\79025\Documents\Аня файлы\Обучение GeekBrains\3. языки программирования\Семинары\ДЗ\Задача_54\bin\Debug\net6.0\Задача_54.dll
+C:\Users\79025\Documents\Аня файлы\Обучение GeekBrains\3. языки программирования\Семинары\ДЗ\Задача_54\bin\Debug\net6.0\Задача_54.pdb
+C:\Users\79025\Documents\Аня файлы\Обучение GeekBrains\3. языки программирования\Семинары\ДЗ\Задача_54\obj\Debug\net6.0\Задача_54.dll
+C:\Users\79025\Documents\Аня файлы\Обучение GeekBrains\3. языки программирования\Семинары\ДЗ\Задача_54\obj\Debug\net6.0\refint\Задача_54.dll
+C:\Users\79025\Documents\Аня файлы\Обучение GeekBrains\3. языки программирования\Семинары\ДЗ\Задача_54\obj\Debug\net6.0\Задача_54.pdb
+C:\Users\79025\Documents\Аня файлы\Обучение GeekBrains\3. языки программирования\Семинары\ДЗ\Задача_54\obj\Debug\net6.0\Задача_54.genruntimeconfig.cache
+C:\Users\79025\Documents\Аня файлы\Обучение GeekBrains\3. языки программирования\Семинары\ДЗ\Задача_54\obj\Debug\net6.0\ref\Задача_54.dll
