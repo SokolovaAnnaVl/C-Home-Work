@@ -1,0 +1,15 @@
+C:\Users\79025\Documents\Аня файлы\Обучение GeekBrains\3. языки программирования\Контрольная работа\Задача_66\bin\Debug\net6.0\Задача_66.exe
+C:\Users\79025\Documents\Аня файлы\Обучение GeekBrains\3. языки программирования\Контрольная работа\Задача_66\bin\Debug\net6.0\Задача_66.deps.json
+C:\Users\79025\Documents\Аня файлы\Обучение GeekBrains\3. языки программирования\Контрольная работа\Задача_66\bin\Debug\net6.0\Задача_66.runtimeconfig.json
+C:\Users\79025\Documents\Аня файлы\Обучение GeekBrains\3. языки программирования\Контрольная работа\Задача_66\bin\Debug\net6.0\Задача_66.dll
+C:\Users\79025\Documents\Аня файлы\Обучение GeekBrains\3. языки программирования\Контрольная работа\Задача_66\bin\Debug\net6.0\Задача_66.pdb
+C:\Users\79025\Documents\Аня файлы\Обучение GeekBrains\3. языки программирования\Контрольная работа\Задача_66\obj\Debug\net6.0\Задача_66.csproj.AssemblyReference.cache
+C:\Users\79025\Documents\Аня файлы\Обучение GeekBrains\3. языки программирования\Контрольная работа\Задача_66\obj\Debug\net6.0\Задача_66.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79025\Documents\Аня файлы\Обучение GeekBrains\3. языки программирования\Контрольная работа\Задача_66\obj\Debug\net6.0\Задача_66.AssemblyInfoInputs.cache
+C:\Users\79025\Documents\Аня файлы\Обучение GeekBrains\3. языки программирования\Контрольная работа\Задача_66\obj\Debug\net6.0\Задача_66.AssemblyInfo.cs
+C:\Users\79025\Documents\Аня файлы\Обучение GeekBrains\3. языки программирования\Контрольная работа\Задача_66\obj\Debug\net6.0\Задача_66.csproj.CoreCompileInputs.cache
+C:\Users\79025\Documents\Аня файлы\Обучение GeekBrains\3. языки программирования\Контрольная работа\Задача_66\obj\Debug\net6.0\Задача_66.dll
+C:\Users\79025\Documents\Аня файлы\Обучение GeekBrains\3. языки программирования\Контрольная работа\Задача_66\obj\Debug\net6.0\refint\Задача_66.dll
+C:\Users\79025\Documents\Аня файлы\Обучение GeekBrains\3. языки программирования\Контрольная работа\Задача_66\obj\Debug\net6.0\Задача_66.pdb
+C:\Users\79025\Documents\Аня файлы\Обучение GeekBrains\3. языки программирования\Контрольная работа\Задача_66\obj\Debug\net6.0\Задача_66.genruntimeconfig.cache
+C:\Users\79025\Documents\Аня файлы\Обучение GeekBrains\3. языки программирования\Контрольная работа\Задача_66\obj\Debug\net6.0\ref\Задача_66.dll
